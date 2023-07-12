@@ -1,4 +1,4 @@
-This is a vectorized mplementation of CNN from scratch
+# This is a vectorized Implementation of CNN classifier from scratch
 
 - convolution.py : An implementation of the convolutional layer. We convolve the input with out_channels different filters and each filter spans all channels in the input.
 - Linear.py : A linear layer with weight W and bias b. Output is computed by y = Wx + b
