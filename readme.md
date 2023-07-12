@@ -6,7 +6,7 @@ This project presents a vectorized implementation of a Convolutional Neural Netw
 
 - [Overview](#overview)
 - [Usage](#usage)
-- [Demonstration](#Demonstration)
+- [Demonstration](#demonstration)
 
 ## Overview
 
@@ -32,6 +32,6 @@ To utilize the vectorized CNN classifier implementation, follow these steps:
 
 Below is an image demonstrating the architecture of the CNN classifier and its various components:
 
-![CNN Classifier Architecture]([https://example.com/cnn-architecture.png](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*z7hd8FZeI_eodazwIapvAw.png))
+![CNN Classifier Architecture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*z7hd8FZeI_eodazwIapvAw.png)
 
 Note: This implementation is for educational purposes and may not be as optimized or feature-complete as existing deep learning frameworks.
